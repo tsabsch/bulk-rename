@@ -2,7 +2,7 @@
 name = "bulk_rename"
 version = "0.1.0"
 description = ""
-authors = ["Tim Sabsch <tim.sabsch@codecentric.de>"]
+authors = ["Tim Sabsch <tim@sabsch.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
